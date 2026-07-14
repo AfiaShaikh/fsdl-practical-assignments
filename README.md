@@ -29,8 +29,7 @@ Full Stack Development Lab
 
 ## Hosted Website
 
-Coming Soon
-
+https://afiashaikh.github.io/fsdl-practical-assignments/
 ## Repository
 
-https://github.com/USERNAME/fsdl-practical-assignments
+https://github.com/AfiaShaikh/fsdl-practical-assignments
